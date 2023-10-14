@@ -33,4 +33,4 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
 # Lisensi
 Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
 
-Dibuat oleh [Nama Anda]
+Dibuat oleh [Giovan Orlen]
